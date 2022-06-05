@@ -11,13 +11,15 @@ To build a release-ready binary:
 ```
 cargo build --release
 ```
-This binary will be at target/release/kitten
+This binary will be at `target/release/kitten`
+
 
 To build a debug binary:
 ```
 cargo build
 ```
-This binary will be at target/debug/kitten
+This binary will be at `target/debug/kitten`
+
 
 To run the program:
 ```
