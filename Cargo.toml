@@ -1,0 +1,8 @@
+[package]
+name = "kitten"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+termsize = "0.1"
+termion = "1.5"
